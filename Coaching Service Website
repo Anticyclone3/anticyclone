@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><center>
+<body><center></body>
+<body bgcolor = "white"
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><h2 style="color: red"><marquee>Coaching Service Platform</title></marquee>
+    <link rel="stylesheet" href="style.css">
+</head></center>
+<body>
+    <!-- Navbar -->
+    <header><center></center>
+        <nav>
+<div style="text-align: center;
+vertical-align: middle;">
+<h2>Welocome</h2>
+</div>
+<h2><style="color: black;"><center>Coaching Service platform</h2>
+<img src="addy.png" alt="Coach Photo"
+style="float:left;">
+<img src="addy.png" alt="Coach Photo"
+style="float:right;">
+            <h1><center><div class="logo"><marquee>Connecting Coaching with us,<br>"Embrace your power"</div></center></marquee></h1>
+            <ul><center></ul></center>
+                <li><center><a href="file:///C:/Users/HP/Desktop/home.html#services">Home</a></li></center>
+                <li><center><a href="file:///C:/Users/HP/Desktop/list%20coach.html">Find a Coach</a></li></center>
+                <li><center><a href="file:///C:/Users/HP/Desktop/service.html#">About</a></li></center>
+                <li><center><a href="file:///C:/Users/HP/Desktop/cs.html">Contact</a></li></center>
+                <li><center><a href="file:///C:/Users/HP/Desktop/sign.html">Sign up</a></li></center>
+            </ul><center></center>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+<body bgcolor = "white">
+<section class="hero">
+    <h1>Find the Right Coach for You</h1>
+    <p style="text-align: justify;">
+        Connecting you with top coaches worldwide in areas like Health, Mindset, Love, Career, and more.
+        Whether you're looking to achieve personal growth or overcome specific challenges, our platform can help.
+    </p>
+        <h3>Explore Coaches Now</h3>
+    </button>
+    <div class="info-section">
+        <p>
+            Our coaching app is a valuable resource for individuals seeking professional support in their personal and career journeys.
+            It's tailored for:
+        </p>
+        <ul>
+            <li>Individuals seeking coaching services</li>
+            <li>Coaches and teachers looking to expand their reach</li>
+            <li>Wellness and self-improvement enthusiasts</li>
+            <li>Professionals aiming for career or personal development</li>
+            <li>Students needing guidance for personal growth</li>
+        </ul>
+        <p>
+            In today's fast-paced world, finding support and proper guidance is essential for self-development and well-being.
+            Our platform is designed to bridge the gap between individuals and top-tier coaches, offering personalized solutions.
+        </p>
+        <h4>Why Do We Need This?</h4>
+        <p>
+            The coaching market faces several challenges that we aim to solve:
+        </p>
+        <ul>
+            <li>Lack of direction and motivation for individuals</li>
+            <li>Limited access to expert coaching</li>
+            <li>Difficulty finding trusted, verified coaches</li>
+            <li>Fragmented coaching services and inefficient communication channels</li>
+        </ul>
+        <p>
+            Our platform offers a seamless, centralized service that makes it easier for individuals to connect with coaches who meet their needs.
+        </p>
+        <h4>The Solution: A User-Friendly Coaching App</h4>
+        <p>
+            Our platform provides a secure, efficient way to book coaching sessions, ensuring a smooth payment process and increasing visibility for coaches. We aim to simplify the process and help clients discover the right coaching options tailored to their goals.
+        </p>
+        <h4>Market Insights</h4>
+        <p>
+            The global coaching market is expected to reach $20 billion by 2025, growing at a compound annual growth rate (CAGR) of 7.1% from 2020 to 2025 (Source: International Coach Federation). This growth is fueled by the rising demand for personal and professional development, alongside increased awareness of coaching benefits.
+        </p>
+        <p>
+            As more individuals face challenges in both personal and professional life, our coaching platform is here to make expert guidance more accessible than ever before.
+        </p>
+        <h4>Ready to Take the Next Step?</h4>
+        <p>
+            Whether you're looking for career advice, personal growth, or health and wellness coaching, our platform connects you with trusted coaches who can help you reach your full potential.
+        </p>
+    </div>
+</section>
+
+
+    <!-- Coach Listing Section -->
+    <section class="coaches">
+        <h2><marquee>Featured Coaches</h2>
+        <div class="coach-container">
+            <div class="coach-card">
+                <img src="jack.png" alt="Coach Photo">
+<p><a href="https://beastlife.in/pages/about-us"</p>
+                <h3>jack Doe</h3>
+                <p>Health Coach</p>
+                <button>Contact</button></marquee>
+            </div><br><br><center>
+            <div class="coach-card">
+                <img src="jen.png." alt="Coach Photo">
+<p>
+<a href="https://the-confidentmindset.com/thinking-into-results"</p>
+                <h3>Ingjerd jensen</h3>
+                <p>Mindset Coach</p>
+                <button>Contact</button>
+            </div><br><br>
+            <div class="coach-card">
+                <img src="perkins.png" alt="Coach Photo">
+<p><a href="https://www.gillianperkins.com/"</p>
+                <h3>Gillian Perkins</h3>
+                <p>Career Coach</p>
+                <button>Contact</button>
+            </div>
+        </div>
+    </section><br><br>
+
+    <!-- Contact Form --><center>
+    <section class="contact">
+        <p><a href="cs.html"><h2>Contact Us</a></p>
+        <form>
+            <input type="text" placeholder="Your Name" required><br>
+            <input type="email" placeholder="Your Email" required><br>
+            <textarea placeholder="Your Message"></textarea><br>
+            <button type="submit"><p><a href = "cs.html"></a></p>Send Message</button><br>
+        </form>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Coaching Connect. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+
+
+
+
